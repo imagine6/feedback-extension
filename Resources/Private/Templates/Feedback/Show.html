@@ -16,30 +16,72 @@ Otherwise your changes will be overwritten the next time you save the extension 
 
     <h1>{feedback.fragebogen}</h1>
 
+
+
     <f:flashMessages />
 
-    <f:for each="{feedback.textA}" as="textA" iteration="count">
-        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textA.txt}</f:format.html>
-    </f:for>
+    <f:if condition="{feedback.schemaTyp}==0">
+        <f:then>
+            <!-- Schema Typ 1 -->
+            <f:for each="{feedback.schema1textA}" as="item" iteration="count">
+                <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{item.txt}</f:format.html>
+            </f:for>
 
-    <f:for each="{feedback.textB}" as="textB" iteration="count">
-        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textB.txt}</f:format.html>
-    </f:for>
+            <f:render partial="Schema1Dim1" arguments="{_all}" />
+            <f:render partial="Schema1Dim2" arguments="{_all}" />
+            <f:render partial="Schema1Dim3" arguments="{_all}" />
+            <f:render partial="Schema1Dim4" arguments="{_all}" />
+            <f:render partial="Schema1Dim5" arguments="{_all}" />
 
-    <p>{feedback.textC}</p>
-
-    <p>{feedback.textD}</p>
-
-    <f:for each="{feedback.textE}" as="textE" iteration="count">
-        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textA.txt}</f:format.html>
-    </f:for>
-
-    <f:for each="{feedback.textF}" as="textF" iteration="count">
-        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textB.txt}</f:format.html>
-    </f:for>
+        </f:then>
+        <f:else>
+            <!-- Schema Typ 2 -->
+            <div class="item item_falsch"></div>
+        </f:else>
+    </f:if>
 
 
-    <!--<f:render partial="Feedback/Properties" arguments="{feedback:feedback}" />-->
+    <!--<f:render partial="Feedback/Properties" arguments="{feedback:feedback}" />
+
+
+    fragebogen => protected198111 (integer)
+   schema1textDdim1 => protected'' (0 chars)
+   schema1textA => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (1 items)
+   schema1textBdim1 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textEdim1 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schemaTyp => protected0 (integer)
+   schema1textDdim2 => protected'' (0 chars)
+   schema1textDdim3 => protected'' (0 chars)
+   schema1textDdim4 => protected'' (0 chars)
+   schema1textDdim5 => protected'' (0 chars)
+   schema2textD => protected'' (0 chars)
+   schema1textCdim1 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textBdim2 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textBdim3 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textBdim4 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textBdim5 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textCdim2 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textCdim3 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textCdim4 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textCdim5 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textEdim2 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textEdim3 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textEdim4 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema1textEdim5 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema2textA => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema2textB => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema2textC => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema2textEdim1 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema2textEdim2 => protectedTYPO3\CMS\Extbase\Persistence\ObjectStorageprototypeobject (empty)
+   schema2textEdim3 =>
+
+
+
+
+
+    -->
+
+
 
 </f:section>
 </html>

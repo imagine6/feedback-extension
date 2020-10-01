@@ -1,0 +1,11 @@
+
+<f:for each="{feedback.schema1textBdim2}" as="item" iteration="count">
+    <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{item.txt}</f:format.html>
+</f:for>
+<f:for each="{feedback.schema1textCdim2}" as="item" iteration="count">
+    <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{item.txt}</f:format.html>
+</f:for>
+<f:format.html parseFuncTSPath="lib.parseFunc_RTE">{feedback.schema1textDdim2}</f:format.html>
+<f:for each="{feedback.schema1textEdim2}" as="item" iteration="count">
+    <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{item.txt}</f:format.html>
+</f:for>
