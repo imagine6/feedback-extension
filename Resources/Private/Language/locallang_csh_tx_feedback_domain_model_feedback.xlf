@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:feedback/Resources/Private/Language/locallang_csh" date="2020-10-01T08:20:53Z" product-name="feedback">
+		<header/>
+		<body>
+			<trans-unit id="fragebogen.description" resname="fragebogen.description">
+				<source>fragebogen</source>
+			</trans-unit>
+			<trans-unit id="schema_typ.description" resname="schema_typ.description">
+				<source>schemaTyp</source>
+			</trans-unit>
+			<trans-unit id="schema1text_ddim1.description" resname="schema1text_ddim1.description">
+				<source>schema1textDdim1</source>
+			</trans-unit>
+			<trans-unit id="schema1text_ddim2.description" resname="schema1text_ddim2.description">
+				<source>schema1textDdim2</source>
+			</trans-unit>
+			<trans-unit id="schema1text_ddim3.description" resname="schema1text_ddim3.description">
+				<source>schema1textDdim3</source>
+			</trans-unit>
+			<trans-unit id="schema1text_ddim4.description" resname="schema1text_ddim4.description">
+				<source>schema1textDdim4</source>
+			</trans-unit>
+			<trans-unit id="schema1text_ddim5.description" resname="schema1text_ddim5.description">
+				<source>schema1textDdim5</source>
+			</trans-unit>
+			<trans-unit id="schema2text_d.description" resname="schema2text_d.description">
+				<source>schema2textD</source>
+			</trans-unit>
+			<trans-unit id="schema1text_a.description" resname="schema1text_a.description">
+				<source>schema1textA</source>
+			</trans-unit>
+			<trans-unit id="schema1text_bdim1.description" resname="schema1text_bdim1.description">
+				<source>schema1textBdim1</source>
+			</trans-unit>
+			<trans-unit id="schema1text_edim1.description" resname="schema1text_edim1.description">
+				<source>schema1textEdim1</source>
+			</trans-unit>
+			<trans-unit id="schema1text_cdim1.description" resname="schema1text_cdim1.description">
+				<source>schema1textCdim1</source>
+			</trans-unit>
+			<trans-unit id="schema1text_bdim2.description" resname="schema1text_bdim2.description">
+				<source>schema1textBdim2</source>
+			</trans-unit>
+			<trans-unit id="schema1text_bdim3.description" resname="schema1text_bdim3.description">
+				<source>schema1textBdim3</source>
+			</trans-unit>
+			<trans-unit id="schema1text_bdim4.description" resname="schema1text_bdim4.description">
+				<source>schema1textBdim4</source>
+			</trans-unit>
+			<trans-unit id="schema1text_bdim5.description" resname="schema1text_bdim5.description">
+				<source>schema1textBdim5</source>
+			</trans-unit>
+			<trans-unit id="schema1text_cdim2.description" resname="schema1text_cdim2.description">
+				<source>schema1textCdim2</source>
+			</trans-unit>
+			<trans-unit id="schema1text_cdim3.description" resname="schema1text_cdim3.description">
+				<source>schema1textCdim3</source>
+			</trans-unit>
+			<trans-unit id="schema1text_cdim4.description" resname="schema1text_cdim4.description">
+				<source>schema1textCdim4</source>
+			</trans-unit>
+			<trans-unit id="schema1text_cdim5.description" resname="schema1text_cdim5.description">
+				<source>schema1textCdim5</source>
+			</trans-unit>
+			<trans-unit id="schema1text_edim2.description" resname="schema1text_edim2.description">
+				<source>schema1textEdim2</source>
+			</trans-unit>
+			<trans-unit id="schema1text_edim3.description" resname="schema1text_edim3.description">
+				<source>schema1textEdim3</source>
+			</trans-unit>
+			<trans-unit id="schema1text_edim4.description" resname="schema1text_edim4.description">
+				<source>schema1textEdim4</source>
+			</trans-unit>
+			<trans-unit id="schema1text_edim5.description" resname="schema1text_edim5.description">
+				<source>schema1textEdim5</source>
+			</trans-unit>
+			<trans-unit id="schema2text_a.description" resname="schema2text_a.description">
+				<source>schema2textA</source>
+			</trans-unit>
+			<trans-unit id="schema2text_b.description" resname="schema2text_b.description">
+				<source>schema2textB</source>
+			</trans-unit>
+			<trans-unit id="schema2text_c.description" resname="schema2text_c.description">
+				<source>schema2textC</source>
+			</trans-unit>
+			<trans-unit id="schema2text_edim1.description" resname="schema2text_edim1.description">
+				<source>schema2textEdim1</source>
+			</trans-unit>
+			<trans-unit id="schema2text_edim2.description" resname="schema2text_edim2.description">
+				<source>schema2textEdim2</source>
+			</trans-unit>
+			<trans-unit id="schema2text_edim3.description" resname="schema2text_edim3.description">
+				<source>schema2textEdim3</source>
+			</trans-unit>
+			<trans-unit id="schema2text_edim4.description" resname="schema2text_edim4.description">
+				<source>schema2textEdim4</source>
+			</trans-unit>
+			<trans-unit id="schema2text_edim5.description" resname="schema2text_edim5.description">
+				<source>schema2textEdim5</source>
+			</trans-unit>
+			<trans-unit id="schema2text_edim6.description" resname="schema2text_edim6.description">
+				<source>schema2textEdim6</source>
+			</trans-unit>
+			<trans-unit id="schema2text_fdim1.description" resname="schema2text_fdim1.description">
+				<source>schema2textFdim1</source>
+			</trans-unit>
+			<trans-unit id="schema2text_fdim2.description" resname="schema2text_fdim2.description">
+				<source>schema2textFdim2</source>
+			</trans-unit>
+			<trans-unit id="schema2text_fdim3.description" resname="schema2text_fdim3.description">
+				<source>schema2textFdim3</source>
+			</trans-unit>
+			<trans-unit id="schema2text_fdim4.description" resname="schema2text_fdim4.description">
+				<source>schema2textFdim4</source>
+			</trans-unit>
+			<trans-unit id="schema2text_fdim5.description" resname="schema2text_fdim5.description">
+				<source>schema2textFdim5</source>
+			</trans-unit>
+			<trans-unit id="schema2text_fdim6.description" resname="schema2text_fdim6.description">
+				<source>schema2textFdim6</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

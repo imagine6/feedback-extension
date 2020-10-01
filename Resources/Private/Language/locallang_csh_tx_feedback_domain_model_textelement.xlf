@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:feedback/Resources/Private/Language/locallang_csh" date="2020-10-01T08:20:53Z" product-name="feedback">
+		<header/>
+		<body>
+			<trans-unit id="titel.description" resname="titel.description">
+				<source>titel</source>
+			</trans-unit>
+			<trans-unit id="txt.description" resname="txt.description">
+				<source>txt</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

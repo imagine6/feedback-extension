@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:feedback/Resources/Private/Language/locallang_db" date="2020-10-01T08:20:53Z" product-name="feedback">
+		<header/>
+		<body>
+			<trans-unit id="tx_feedback_domain_model_feedback" resname="tx_feedback_domain_model_feedback">
+				<source>Feedback</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.fragebogen" resname="tx_feedback_domain_model_feedback.fragebogen">
+				<source>Fragebogen ID aus LimeSurvey</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema_typ" resname="tx_feedback_domain_model_feedback.schema_typ">
+				<source>Schema Typ</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim1" resname="tx_feedback_domain_model_feedback.schema1text_ddim1">
+				<source>Text D -- Dimension 1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim2" resname="tx_feedback_domain_model_feedback.schema1text_ddim2">
+				<source>Text D -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim3" resname="tx_feedback_domain_model_feedback.schema1text_ddim3">
+				<source>Text D -- Dimension 3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim4" resname="tx_feedback_domain_model_feedback.schema1text_ddim4">
+				<source>Text D -- Dimension 4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim5" resname="tx_feedback_domain_model_feedback.schema1text_ddim5">
+				<source>Text D -- Dimension 5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_d" resname="tx_feedback_domain_model_feedback.schema2text_d">
+				<source>Text D</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_a" resname="tx_feedback_domain_model_feedback.schema1text_a">
+				<source>Text A</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim1" resname="tx_feedback_domain_model_feedback.schema1text_bdim1">
+				<source>Text B -- Dimension 1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim1" resname="tx_feedback_domain_model_feedback.schema1text_edim1">
+				<source>Text E -- Dimension 1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim1" resname="tx_feedback_domain_model_feedback.schema1text_cdim1">
+				<source>Text C -- Dimension 1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim2" resname="tx_feedback_domain_model_feedback.schema1text_bdim2">
+				<source>Text B -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim3" resname="tx_feedback_domain_model_feedback.schema1text_bdim3">
+				<source>Text B -- Dimension 3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim4" resname="tx_feedback_domain_model_feedback.schema1text_bdim4">
+				<source>Text B -- Dimension 4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim5" resname="tx_feedback_domain_model_feedback.schema1text_bdim5">
+				<source>Text B -- Dimension 5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim2" resname="tx_feedback_domain_model_feedback.schema1text_cdim2">
+				<source>Text C -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim3" resname="tx_feedback_domain_model_feedback.schema1text_cdim3">
+				<source>Text C -- Dimension 3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim4" resname="tx_feedback_domain_model_feedback.schema1text_cdim4">
+				<source>Text C -- Dimension 4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim5" resname="tx_feedback_domain_model_feedback.schema1text_cdim5">
+				<source>Text C -- Dimension 5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim2" resname="tx_feedback_domain_model_feedback.schema1text_edim2">
+				<source>Text E -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim3" resname="tx_feedback_domain_model_feedback.schema1text_edim3">
+				<source>Text E -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim4" resname="tx_feedback_domain_model_feedback.schema1text_edim4">
+				<source>Text E -- Dimension 4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim5" resname="tx_feedback_domain_model_feedback.schema1text_edim5">
+				<source>Text E -- Dimension 5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_a" resname="tx_feedback_domain_model_feedback.schema2text_a">
+				<source>Text A</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_b" resname="tx_feedback_domain_model_feedback.schema2text_b">
+				<source>Text B</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_c" resname="tx_feedback_domain_model_feedback.schema2text_c">
+				<source>Text C</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim1" resname="tx_feedback_domain_model_feedback.schema2text_edim1">
+				<source>Text E -- Dimension 1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim2" resname="tx_feedback_domain_model_feedback.schema2text_edim2">
+				<source>Text E -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim3" resname="tx_feedback_domain_model_feedback.schema2text_edim3">
+				<source>Text E -- Dimension 3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim4" resname="tx_feedback_domain_model_feedback.schema2text_edim4">
+				<source>Text E -- Dimension 4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim5" resname="tx_feedback_domain_model_feedback.schema2text_edim5">
+				<source>Text E -- Dimension 5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim6" resname="tx_feedback_domain_model_feedback.schema2text_edim6">
+				<source>Text E -- Dimension 6</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim1" resname="tx_feedback_domain_model_feedback.schema2text_fdim1">
+				<source>Text F -- Dimension 1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim2" resname="tx_feedback_domain_model_feedback.schema2text_fdim2">
+				<source>Text F -- Dimension 2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim3" resname="tx_feedback_domain_model_feedback.schema2text_fdim3">
+				<source>Text F -- Dimension 3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim4" resname="tx_feedback_domain_model_feedback.schema2text_fdim4">
+				<source>Text F -- Dimension 4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim5" resname="tx_feedback_domain_model_feedback.schema2text_fdim5">
+				<source>Text F -- Dimension 5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim6" resname="tx_feedback_domain_model_feedback.schema2text_fdim6">
+				<source>Text F -- Dimension 6</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_textelement" resname="tx_feedback_domain_model_textelement">
+				<source>Textelement</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_textelement.titel" resname="tx_feedback_domain_model_textelement.titel">
+				<source>Titel</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_textelement.txt" resname="tx_feedback_domain_model_textelement.txt">
+				<source>Txt</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_feedback.name" resname="tx_feedback_feedback.name">
+				<source>feedback</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_feedback.description" resname="tx_feedback_feedback.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

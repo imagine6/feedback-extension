@@ -1,0 +1,45 @@
+<html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" data-namespace-typo3-fluid="true">
+<f:layout name="Default" />
+
+This Template is responsible for displaying a single view for a domain object
+
+If you modify this template, do not forget to change the overwrite settings
+in /Configuration/ExtensionBuilder/settings.yaml:
+Resources:
+Private:
+Templates:
+Show.html: keep
+
+Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+<f:section name="content">
+
+    <h1>{feedback.fragebogen}</h1>
+
+    <f:flashMessages />
+
+    <f:for each="{feedback.textA}" as="textA" iteration="count">
+        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textA.txt}</f:format.html>
+    </f:for>
+
+    <f:for each="{feedback.textB}" as="textB" iteration="count">
+        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textB.txt}</f:format.html>
+    </f:for>
+
+    <p>{feedback.textC}</p>
+
+    <p>{feedback.textD}</p>
+
+    <f:for each="{feedback.textE}" as="textE" iteration="count">
+        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textA.txt}</f:format.html>
+    </f:for>
+
+    <f:for each="{feedback.textF}" as="textF" iteration="count">
+        <f:format.html parseFuncTSPath="lib.parseFunc_RTE">{textB.txt}</f:format.html>
+    </f:for>
+
+
+    <!--<f:render partial="Feedback/Properties" arguments="{feedback:feedback}" />-->
+
+</f:section>
+</html>

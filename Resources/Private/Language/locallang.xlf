@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:feedback/Resources/Private/Language/locallang" date="2020-10-01T08:20:53Z" product-name="feedback">
+		<header/>
+		<body>
+			<trans-unit id="tx_feedback_domain_model_feedback" resname="tx_feedback_domain_model_feedback">
+				<source>Feedback</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.fragebogen" resname="tx_feedback_domain_model_feedback.fragebogen">
+				<source>Fragebogen</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema_typ" resname="tx_feedback_domain_model_feedback.schema_typ">
+				<source>Schema Typ</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim1" resname="tx_feedback_domain_model_feedback.schema1text_ddim1">
+				<source>Schema1text Ddim1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim2" resname="tx_feedback_domain_model_feedback.schema1text_ddim2">
+				<source>Schema1text Ddim2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim3" resname="tx_feedback_domain_model_feedback.schema1text_ddim3">
+				<source>Schema1text Ddim3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim4" resname="tx_feedback_domain_model_feedback.schema1text_ddim4">
+				<source>Schema1text Ddim4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_ddim5" resname="tx_feedback_domain_model_feedback.schema1text_ddim5">
+				<source>Schema1text Ddim5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_d" resname="tx_feedback_domain_model_feedback.schema2text_d">
+				<source>Schema2text D</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_a" resname="tx_feedback_domain_model_feedback.schema1text_a">
+				<source>Schema1text A</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim1" resname="tx_feedback_domain_model_feedback.schema1text_bdim1">
+				<source>Schema1text Bdim1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim1" resname="tx_feedback_domain_model_feedback.schema1text_edim1">
+				<source>Schema1text Edim1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim1" resname="tx_feedback_domain_model_feedback.schema1text_cdim1">
+				<source>Schema1text Cdim1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim2" resname="tx_feedback_domain_model_feedback.schema1text_bdim2">
+				<source>Schema1text Bdim2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim3" resname="tx_feedback_domain_model_feedback.schema1text_bdim3">
+				<source>Schema1text Bdim3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim4" resname="tx_feedback_domain_model_feedback.schema1text_bdim4">
+				<source>Schema1text Bdim4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_bdim5" resname="tx_feedback_domain_model_feedback.schema1text_bdim5">
+				<source>Schema1text Bdim5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim2" resname="tx_feedback_domain_model_feedback.schema1text_cdim2">
+				<source>Schema1text Cdim2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim3" resname="tx_feedback_domain_model_feedback.schema1text_cdim3">
+				<source>Schema1text Cdim3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim4" resname="tx_feedback_domain_model_feedback.schema1text_cdim4">
+				<source>Schema1text Cdim4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_cdim5" resname="tx_feedback_domain_model_feedback.schema1text_cdim5">
+				<source>Schema1text Cdim5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim2" resname="tx_feedback_domain_model_feedback.schema1text_edim2">
+				<source>Schema1text Edim2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim3" resname="tx_feedback_domain_model_feedback.schema1text_edim3">
+				<source>Schema1text Edim3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim4" resname="tx_feedback_domain_model_feedback.schema1text_edim4">
+				<source>Schema1text Edim4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema1text_edim5" resname="tx_feedback_domain_model_feedback.schema1text_edim5">
+				<source>Schema1text Edim5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_a" resname="tx_feedback_domain_model_feedback.schema2text_a">
+				<source>Schema2text A</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_b" resname="tx_feedback_domain_model_feedback.schema2text_b">
+				<source>Schema2text B</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_c" resname="tx_feedback_domain_model_feedback.schema2text_c">
+				<source>Schema2text C</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim1" resname="tx_feedback_domain_model_feedback.schema2text_edim1">
+				<source>Schema2text Edim1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim2" resname="tx_feedback_domain_model_feedback.schema2text_edim2">
+				<source>Schema2text Edim2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim3" resname="tx_feedback_domain_model_feedback.schema2text_edim3">
+				<source>Schema2text Edim3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim4" resname="tx_feedback_domain_model_feedback.schema2text_edim4">
+				<source>Schema2text Edim4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim5" resname="tx_feedback_domain_model_feedback.schema2text_edim5">
+				<source>Schema2text Edim5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_edim6" resname="tx_feedback_domain_model_feedback.schema2text_edim6">
+				<source>Schema2text Edim6</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim1" resname="tx_feedback_domain_model_feedback.schema2text_fdim1">
+				<source>Schema2text Fdim1</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim2" resname="tx_feedback_domain_model_feedback.schema2text_fdim2">
+				<source>Schema2text Fdim2</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim3" resname="tx_feedback_domain_model_feedback.schema2text_fdim3">
+				<source>Schema2text Fdim3</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim4" resname="tx_feedback_domain_model_feedback.schema2text_fdim4">
+				<source>Schema2text Fdim4</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim5" resname="tx_feedback_domain_model_feedback.schema2text_fdim5">
+				<source>Schema2text Fdim5</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_feedback.schema2text_fdim6" resname="tx_feedback_domain_model_feedback.schema2text_fdim6">
+				<source>Schema2text Fdim6</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_textelement" resname="tx_feedback_domain_model_textelement">
+				<source>Textelement</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_textelement.titel" resname="tx_feedback_domain_model_textelement.titel">
+				<source>Titel</source>
+			</trans-unit>
+			<trans-unit id="tx_feedback_domain_model_textelement.txt" resname="tx_feedback_domain_model_textelement.txt">
+				<source>Txt</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

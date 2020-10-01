@@ -1,0 +1,15 @@
+
+plugin.tx_feedback_feedback {
+    view {
+        # cat=plugin.tx_feedback_feedback/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:feedback/Resources/Private/Templates/
+        # cat=plugin.tx_feedback_feedback/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:feedback/Resources/Private/Partials/
+        # cat=plugin.tx_feedback_feedback/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:feedback/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_feedback_feedback//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}
